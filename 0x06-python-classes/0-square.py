@@ -1,7 +1,8 @@
-""" Square Module """
 #!/usr/bin/python3
-""" define a square module """
+
+"""Define a class Square."""
+
+
 class Square:
-    def __init__(self):
-        """ Constructor """
-        None
+    """Represent a square."""
+    pass
